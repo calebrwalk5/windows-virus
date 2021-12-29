@@ -4,6 +4,11 @@
 #include <stdlib.h>
 #include <ctype.h>
 
+/*
+Written by anusO1#6969
+github.com/calebrwalk5
+*/
+
 // get current user
 void tunnel() {
     system("echo %USERPROFILE%>user");
